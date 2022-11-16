@@ -20,9 +20,6 @@ Olá Dev, tudo bem? Seja bem vindo ao teste para Fullstack da **SimbioX** 💙
     
     Documentação: [https://www.themoviedb.org/settings/api](https://www.themoviedb.org/settings/api)
     
-    ### **🥰 Diferenciais**
-    
-    - Conectar no Sharepoint e obter isso de uma lista, e ter mais um método que insira novos filmes com suas informações.
 
 ---
 
@@ -47,6 +44,10 @@ Olá Dev, tudo bem? Seja bem vindo ao teste para Fullstack da **SimbioX** 💙
     Será necessário criar uma **API** simples que retorne os endpoints para seu Front-end consumir os dados via local.
     
     Tecnologias e bibliotecas estão livres para serem usadas, fique a vontade para utilizar recursos como Express, NestJS, Axios, etc.
+    
+      ### **🥰 Diferenciais**
+    
+    - Realizar métodos do front em requisições via back-end para melhorar performance. Ex: paginação, busca, etc.
     
 
 ## **💻 Instruções para entrega do projeto:**
