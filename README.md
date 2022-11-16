@@ -58,4 +58,4 @@ Olá Dev, tudo bem? Seja bem vindo ao teste para Fullstack da **SimbioX** 💙
 
 ---
 
-![Design_sem_nome__3_-removebg-preview.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28471b81-6821-4347-b0a7-1f01864d0305/Design_sem_nome__3_-removebg-preview.png)
+
