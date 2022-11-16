@@ -38,7 +38,9 @@ Olá Dev, tudo bem? Seja bem vindo ao teste para Fullstack da **SimbioX** 💙
     - O projeto deverá ser 100% responsivo.
     - Deverá ser criada uma página que exibirá informações necessárias de cada filme especificamente assim que selecionado.
     - Todo layout e interface deverá ser pensado na melhor experiência do usuário.
-    
+   
+ ---
+
 
 - **Item 3 - Back end**
     
